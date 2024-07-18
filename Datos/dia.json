@@ -1,0 +1,184 @@
+{
+  "dia" : {
+    "miércoles" : {
+      "almuerzosComprados" : {
+        "1" : {
+          "detalles" : [ "jugo de manzana", "guiso de verduras", "repollo", "yogur", "sopa de espinaca", "pan de centeno" ],
+          "correoElectronico" : "fran"
+        },
+        "2" : {
+          "detalles" : [ "jugo de manzana", "pastel de papas", "null", "yogur", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "3" : {
+          "detalles" : [ "jugo de manzana", "pastel de papas", "zanahoria", "fruta", "sopa de espinaca", "pan de centeno" ],
+          "correoElectronico" : "knekro"
+        },
+        "4" : {
+          "detalles" : [ "jugo de manzana", "pastel de papas", "repollo", "yogur", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "5" : {
+          "detalles" : [ "jugo de manzana", "pastel de papas", "repollo", "yogur", "null", "null" ],
+          "correoElectronico" : "pepe@gmail.cl"
+        }
+      }
+    },
+    "martes" : {
+      "almuerzosComprados" : {
+        "1" : {
+          "detalles" : [ "jugo de naranja", "pollo con papas", "espinaca", "gelatina" ],
+          "correoElectronico" : "fran"
+        },
+        "2" : {
+          "detalles" : [ "jugo de naranja", "pollo con papas", "espinaca", "gelatina" ],
+          "correoElectronico" : "fran"
+        },
+        "3" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "4" : {
+          "detalles" : [ "agua", "pollo con papas", "remolacha", "gelatina", "sopa de tomate", "pan integral" ],
+          "correoElectronico" : "franshe"
+        },
+        "5" : {
+          "detalles" : [ "agua", "pescado frito", "espinaca", "fruta", "null", "null" ],
+          "correoElectronico" : "knekro"
+        }
+      }
+    },
+    "jueves" : {
+      "almuerzosComprados" : {
+        "1" : {
+          "detalles" : [ "jugo de piña", "arroz con pollo", "lechuga", "mousse de chocolate" ],
+          "correoElectronico" : "fran"
+        },
+        "2" : {
+          "detalles" : [ "agua", "arroz con pollo", "pepino", "fruta", "sopa de champiñones", "pan de avena" ],
+          "correoElectronico" : "knekro"
+        },
+        "3" : {
+          "detalles" : [ "jugo de piña", "arroz con pollo", "lechuga", "mousse de chocolate", "sopa de champiñones", "pan de avena" ],
+          "correoElectronico" : "pepe@gmail.cl"
+        }
+      }
+    },
+    "lunes" : {
+      "almuerzosComprados" : {
+        "2" : {
+          "detalles" : [ "sprite", "papas con carne", "lechuga", "flan" ],
+          "correoElectronico" : "maria.garcia@example.com"
+        },
+        "3" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan" ],
+          "correoElectronico" : "knekro"
+        },
+        "4" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "5" : {
+          "detalles" : [ "sprite", "cazuela", "zanahoria", "fruta", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "6" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "7" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "8" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "fran"
+        },
+        "9" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "franshe"
+        },
+        "10" : {
+          "detalles" : [ "fanta", "cazuela", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "11" : {
+          "detalles" : [ "fanta", "cazuela", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "12" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "13" : {
+          "detalles" : [ "fanta", "cazuela", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "14" : {
+          "detalles" : [ "fanta", "cazuela", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "15" : {
+          "detalles" : [ "fanta", "cazuela", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "16" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "17" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "18" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "19" : {
+          "detalles" : [ "sprite", "papas con carne", "null", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "20" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "21" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "22" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "23" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "24" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        },
+        "25" : {
+          "detalles" : [ "fanta", "papas con carne", "lechuga", "flan", "null", "null" ],
+          "correoElectronico" : "knekro"
+        }
+      }
+    },
+    "viernes" : {
+      "almuerzosComprados" : {
+        "1" : {
+          "detalles" : [ "limonada", "pastel de choclo", "coleslaw", "tarta de manzana" ],
+          "correoElectronico" : "fran"
+        },
+        "2" : {
+          "detalles" : [ "limonada", "pastel de choclo", "coleslaw", "tarta de manzana", "sopa de calabaza", "pan sin gluten" ],
+          "correoElectronico" : "franshe"
+        },
+        "3" : {
+          "detalles" : [ "limonada", "quinoa con verduras", "coleslaw", "tarta de manzana", "sopa de calabaza", "pan sin gluten" ],
+          "correoElectronico" : "knekro"
+        }
+      }
+    }
+  }
+}
